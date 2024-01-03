@@ -244,6 +244,7 @@ nav ul li a {
   border-radius: var(--itemBorderRadius);
   overflow: hidden;
   border: 1px solid var(--borderColor);
+  margin-bottom: 4rem;
 }
 
 .portfolioCover {
